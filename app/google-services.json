@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341577266977",
+    "project_id": "gobookbyteamallahrhawla",
+    "storage_bucket": "gobookbyteamallahrhawla.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341577266977:android:15aa7d03d4685852af7060",
+        "android_client_info": {
+          "package_name": "com.example.gobook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEproIEfv1wafT6MsiKaLjw4Sk19t4fUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
